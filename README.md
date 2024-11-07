@@ -1,7 +1,11 @@
 # Pirâmide de Bloco
 
- <p align="center"><img width="80%" src="img/piramide.png"></p>
- 
-Criando uma pirâmide com blocos, utilizando HTML.
+ <a><img width="40%" src="img/piramide.png"></a>
+
+**Descrição:**
+
+Foi criado uma pirâmide com blocos, utilizando HTML.
 
 **Link do projeto:**
+
+https://maike-simoncini.github.io/Piramide-Bloco/
