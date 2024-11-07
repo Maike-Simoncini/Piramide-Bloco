@@ -1,6 +1,6 @@
 # Pirâmide de Bloco
 
- <a><img width="40%" src="img/piramide.png"></a>
+<a><img width="40%" src="img/piramide.png"></a>
 
 **Descrição:**
 
